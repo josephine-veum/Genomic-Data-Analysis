@@ -1,0 +1,10 @@
+Links to download raw data
+
+Microarray data
+- [HT_HG-U133A](https://tcga.xenahubs.net/download/TCGA.OV.sampleMap/HT_HG-U133A.gz)
+
+RNAseq data
+- [HiSeqV2](https://tcga.xenahubs.net/download/TCGA.OV.sampleMap/HiSeqV2.gz)
+
+Clinical data
+- [ov_tcga_clinical_data.tsv](https://www.cbioportal.org/study/clinicalData?id=ov_tcga#summary)
